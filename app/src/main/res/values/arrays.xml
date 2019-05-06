@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allExerciseName">
+        <item>Boat Pose</item>
+        <item>Bow Pose</item>
+        <item>Cobra Pose</item>
+        <item>Crescent Lunge</item>
+        <item>Downward Facing Dog</item>
+        <item>Easy Pose</item>
+        <item>Half Pigeon</item>
+        <item>Low Lunge</item>
+        <item>Upward Bow</item>
+        <item>Warrior Pose</item>
+        <item>Warrior Pose 2</item>
+    </string-array>
+    <string-array name="allExercisePictures">
+        <item>@drawable/boat_pose</item>
+        <item>@drawable/bow_pose</item>
+        <item>@drawable/cobra_pose</item>
+        <item>@drawable/crescent_lunge</item>
+        <item>@drawable/downward_facing_dog</item>
+        <item>@drawable/easy_pose</item>
+        <item>@drawable/half_pigeon</item>
+        <item>@drawable/low_lunge</item>
+        <item>@drawable/upward_bow</item>
+        <item>@drawable/warrior_pose</item>
+        <item>@drawable/warrior_pose_2</item>
+    </string-array>
+</resources>

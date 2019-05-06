@@ -1,0 +1,7 @@
+#Fri Apr 06 13:41:30 IST 2018
+base.0=/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea18b20bde004c27c826d0938e4c2e7be7510a53
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_12bed85c2035e6bfb717f659c2b97edb98337af5/classes.dex
+base.1=/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_12bed85c2035e6bfb717f659c2b97edb98337af5
+file.0=/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea18b20bde004c27c826d0938e4c2e7be7510a53/classes.dex

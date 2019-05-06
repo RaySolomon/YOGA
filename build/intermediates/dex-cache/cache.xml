@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/dc0fb6517590f51073a58e16f436ce5ab5b88513/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_42f232ac64a66d3270c30a5a37ac29478058755e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/sqliteassethelper-2.0.1_c965e122eb8853231f613a66a31189d40309f160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/1f5981f350635486e510e370b7a1ac57784f2e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_20391e8566e0843c1363018d41480943fa9045fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/common-1.0.0_2dcbd8080ab861fa8f63c306aeed0069e1a17d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/332dad1f601cecd9d3e319f054af7bb3c91eff68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_d2d3cb97bfaa432d9e315dac1ec06240d1e4fbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/1c30ff27bd83b0614a1c301c978eecd466d59134/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_2f4f42c95bbffb71656aeb96b7fe73a2991be3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/1747f37b61ad967c0818b000292303a6ece1cac6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_518845996d4b8bb1cf92f5ada8c874186f951a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/5aa72feb04fbfe46e86675416b3db35ea42e725d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_6a50e7185700532f6e1f98c919b6e7cb0722a872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/acd176d48f539e25571f9792799acbfb234b0c04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_b07b90ffad234bdb9b1fb425a20a5785f25e7ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/f037e0ac9ddc1142a445554f6ff3119ea8ecfd77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_d465b948e302798c5a6ce5830ebfc797d1d7b9b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/62272dc76a901a7097a155a6d029a44719637709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_724f45ba29d86e127fc1c38b21aa34fb2abf5ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/498c1de37356ddd9cab9774918e4efc7d2c52a5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_8d6282c6b03e97ee339d8ae2c917a92610539495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/1a3c723b650fa941dabc67a321681ad7ea798cf4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_a028f16a6f6f1569b08408d5f31f427af23cf857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/601363714acf53ebd2b495f850727b2e64b9cfd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_33b783c935d29d780fc7a0452a8f5ff24e54c234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/a2f33696cd2bd8e9f2e5f3f6ca02c0c1785abcb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_cb3bb13562151a6ff1db83bdd839932a60208ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/c83a3286efeeeeb00f99415f48f322b574d33d4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_b4545f2f1804c6286b681f6f5afc4cf62a6b4401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/324959bb1aaae59c13a636d7c416d5879aace92d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_ec83d29ae4a1de1e0b045392e8de32b85d73c185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/d0b26d90498a93eaee2f3ed40303ebde1ac65a66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_86662591bc5daeefd965d3596d0b31bb7ba2dd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/d83a85c6add0a08230a3bd7c3f9c24db56d66fa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_d6f5be4eca5e16496fb378c88e88047bbe4b9060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_fda2a0649a3c579da848ed9006187e700d227740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/3f1e01e834283717ad36848cb9be6b5a18e7a409/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_37e6db4a467f7c62646e5cf25a1b4a7f9c847cc6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/domaine/Downloads/YOGA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="558ccdd61c3e396ee6c6380c48196be66f631bc4">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_12bed85c2035e6bfb717f659c2b97edb98337af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a785ce353a71f8716c0188bc386b77b9e5c8b4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/eb14030d8103ee018db77c0ba8a0e9e4a61b3959/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_7be7d4aa9ef3528ed2b81c002915b4930a9a7c54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/domaine/Downloads/YOGA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea18b20bde004c27c826d0938e4c2e7be7510a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/e04daa97229659fe9a9589559a8492c4bb6591e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_65e6e19c7c4e434616bf07b548cda7e5ee3030da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/518a4677ef987432bfd332803b328e497fdae713/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_38a44a97700c825d8e7787d7bf84dc0320859c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/eb57c8f680e058bd2c2b22a6f965dca876473979/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_0f77391cc922de8fcd78494ac9c5b781af5336cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/common-1.0.0_0c33cce3539ea93fecff3899d54c9f0653593de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/5c35b4dd2a62e9f250175c9c414016895bfc43a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_593c64050aa3f06829c7727b0e4f8e6c7c7954cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/8658234b291d52530f239c8c0d4c5abc15a7bdf4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_c089a6c0652846028c531489b26e30670e6c887d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/df738d610d652c9637c27c55ffeee302d86846ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_db91c459cf55f650c9acec15040412435df49b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/f6a20d29d941736631733e4294114586bd901eda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_d52bc584ef58789db9550f52cdfbac06bae545a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domaine/.android/build-cache/8d8dfa60a64dadbcf7ed8d3e8a5e2a6e56cc6781/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/domaine/Downloads/YOGA/app/build/intermediates/pre-dexed/debug/classes_fb8bef28531ab03b00a0b6f0ee287b95b25e8c4e.jar" />
+    </item>
+
+</items>

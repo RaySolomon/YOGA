@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 02 18:30:56 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/domaine/Downloads/YOGA/app/build/intermediates/assets/debug
+0.path=databases/YogaDB.db
+0.set=ASSET
+count=1
